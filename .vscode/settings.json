@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "workbench.welcome.enabled": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "jscs.enable": true,
+    "jscs.preset": "airbnb",
+    "javascript.format.enable": false
+}
